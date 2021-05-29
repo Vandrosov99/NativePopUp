@@ -1,5 +1,6 @@
 const showBtnEl = document.getElementById("showBtn");
 const closeBtnEl = document.getElementById("closeBtn");
+
 const popupEl = document.getElementById("popup");
 
 showBtnEl.addEventListener("click", () => {
